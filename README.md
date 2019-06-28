@@ -41,5 +41,9 @@
 ## Install 安装及使用日志
 
 
+## Rendition 展示图
+
+![](http://image-file.chengyangyang.com/Rendition-logo.png)
+
 ###
 [使用ReadtheDocs托管文档](ddd)
